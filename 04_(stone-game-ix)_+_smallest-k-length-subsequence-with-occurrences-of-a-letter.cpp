@@ -1,5 +1,5 @@
 //https://leetcode.com/contest/weekly-contest-261/problems/stone-game-ix/    (this question is different but of same contest) 
-
+//https://leetcode.com/problems/burst-balloons/   (burst balloon)
 //  https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/
 
 string smallestSubsequence(string s, int k, char letter, int rep) {
