@@ -1,5 +1,7 @@
 //https://leetcode.com/contest/weekly-contest-261/problems/stone-game-ix/    (this question is different but of same contest) 
 //https://leetcode.com/problems/burst-balloons/   (burst balloon)
+//   https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/discuss/1455070/Simulation-(DP-Alternative)
+//      https://leetcode.com/problems/largest-component-size-by-common-factor/discuss/1592263/C%2B%2B-3-Simple-Solution-w-Explanation-or-Disjoint-Set-Union-%2B-Sieve-of-Eratosthenes
 //  https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 
 
