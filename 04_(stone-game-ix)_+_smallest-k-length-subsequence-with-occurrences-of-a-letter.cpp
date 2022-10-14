@@ -5,6 +5,9 @@
 //   https://leetcode.com/problems/gcd-sort-of-an-array/discuss/1445632/C%2B%2B-Union-Find
 //  https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 
+//   https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+//   https://leetcode.com/contest/biweekly-contest-59/problems/number-of-ways-to-separate-numbers/
+
 
 
 
