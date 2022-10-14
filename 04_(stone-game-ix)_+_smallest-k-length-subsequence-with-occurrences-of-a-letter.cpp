@@ -32,5 +32,6 @@ string smallestSubsequence(string s, int k, char letter, int rep) {
         res += mono[i];
         rep -= mono[i] == letter;
     }
+    
     return res;
 }
